@@ -6,7 +6,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/sirupsen/logrus"
+	"github.com/0magnet/logrus"
 )
 
 // Hook is a hook designed for dealing with logs in test scenarios.

@@ -3,7 +3,7 @@ package slog
 import (
 	"log/slog"
 
-	"github.com/sirupsen/logrus"
+	"github.com/0magnet/logrus"
 )
 
 // slog levels corresponding to Logrus levels.

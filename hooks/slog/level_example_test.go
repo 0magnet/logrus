@@ -4,8 +4,8 @@ import (
 	"log/slog"
 	"os"
 
-	"github.com/sirupsen/logrus"
-	lslog "github.com/sirupsen/logrus/hooks/slog"
+	"github.com/0magnet/logrus"
+	lslog "github.com/0magnet/logrus/hooks/slog"
 )
 
 // LoggerLevel exposes a Logrus logger's configured level as a slog.Leveler.

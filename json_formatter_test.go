@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/sirupsen/logrus"
+	"github.com/0magnet/logrus"
 )
 
 func formatJSONEntry(t *testing.T, formatter *logrus.JSONFormatter, fields logrus.Fields) map[string]any {

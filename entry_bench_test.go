@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/sirupsen/logrus"
+	"github.com/0magnet/logrus"
 )
 
 // BenchmarkEntry_NewEntry measures the cost of creating entries that are not

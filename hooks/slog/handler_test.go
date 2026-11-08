@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/sirupsen/logrus"
-	lslog "github.com/sirupsen/logrus/hooks/slog"
-	"github.com/sirupsen/logrus/hooks/test"
+	"github.com/0magnet/logrus"
+	lslog "github.com/0magnet/logrus/hooks/slog"
+	"github.com/0magnet/logrus/hooks/test"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

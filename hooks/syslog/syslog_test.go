@@ -9,8 +9,8 @@ import (
 	"log/syslog"
 	"testing"
 
-	"github.com/sirupsen/logrus"
-	lsyslog "github.com/sirupsen/logrus/hooks/syslog"
+	"github.com/0magnet/logrus"
+	lsyslog "github.com/0magnet/logrus/hooks/syslog"
 )
 
 func TestLocalhostAddAndPrint(t *testing.T) {

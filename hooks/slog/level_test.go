@@ -4,8 +4,8 @@ import (
 	"log/slog"
 	"testing"
 
-	"github.com/sirupsen/logrus"
-	lslog "github.com/sirupsen/logrus/hooks/slog"
+	"github.com/0magnet/logrus"
+	lslog "github.com/0magnet/logrus/hooks/slog"
 )
 
 // TestLevel verifies the default Logrus-to-slog level mapping.

@@ -10,7 +10,7 @@ import (
 	"log/slog"
 	"maps"
 
-	"github.com/sirupsen/logrus"
+	"github.com/0magnet/logrus"
 )
 
 // logrusLoggerContextKey is the context key used to track Logrus loggers a

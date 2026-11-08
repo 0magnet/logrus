@@ -8,8 +8,8 @@ import (
 	"log/slog"
 	"os"
 
-	"github.com/sirupsen/logrus"
-	lslog "github.com/sirupsen/logrus/hooks/slog"
+	"github.com/0magnet/logrus"
+	lslog "github.com/0magnet/logrus/hooks/slog"
 )
 
 // ExampleNewHandler demonstrates using slog alongside an existing Logrus logger.

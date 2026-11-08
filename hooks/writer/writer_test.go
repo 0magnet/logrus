@@ -5,8 +5,8 @@ import (
 	"io"
 	"testing"
 
-	"github.com/sirupsen/logrus"
-	"github.com/sirupsen/logrus/hooks/writer"
+	"github.com/0magnet/logrus"
+	"github.com/0magnet/logrus/hooks/writer"
 	"github.com/stretchr/testify/assert"
 )
 

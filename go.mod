@@ -1,4 +1,4 @@
-module github.com/sirupsen/logrus
+module github.com/0magnet/logrus
 
 go 1.23
 
